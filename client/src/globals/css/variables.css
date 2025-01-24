@@ -1,0 +1,10 @@
+:root {
+	--accent-color: #287ba7;
+	--text-on-accent-color: #ffffff;
+	--primary-color: #000000;
+	--text-on-primary-color: #ffffff;
+	--secondary-color: #ffffff;
+	--text-on-secondary-color: #000000;
+
+	--border-radius: 0.25rem;
+}
