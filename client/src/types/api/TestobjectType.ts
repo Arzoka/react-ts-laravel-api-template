@@ -1,4 +1,4 @@
-import { Constants } from '@/types/Constants.ts';
+import { Constants } from '@/types/api/Constants.ts';
 
 type CreateTestobjectType = {
 	name: string;
