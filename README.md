@@ -50,6 +50,8 @@ docker-compose exec server php artisan migrate
 - TypeScript for type checking
 - @/ alias for src/ folder
 - useApi hook for easy API requests
+- useAsyncMemo hook for easy async memoization
+- useAsyncState hook for easy async state management
 - globals/css for global styles
 
 - Laravel API only
