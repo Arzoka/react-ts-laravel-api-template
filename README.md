@@ -5,7 +5,7 @@ How to run the project:
 1. Clone the repository
 ```bash
 git clone https://github.com/Arzoka/react-ts-laravel-api-template.git
-cd musicbox
+cd react-ts-laravel-api-template
 ```
 
 2. Copy the client and server .env.example file to .env
