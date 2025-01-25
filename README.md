@@ -1,6 +1,6 @@
 # react-ts-laravel-api-template
 
-How to run the project:
+## How to run the project:
 
 1. Clone the repository
 ```bash
@@ -35,5 +35,27 @@ docker-compose up -d
 ```bash
 docker-compose exec server php artisan migrate
 ```
+
+## Dependencies:
+- React
+- TypeScript
+- Vite
+- Laravel
+- Sanctum
+- Docker
+
+## Features:
+- React client
+- React-router for routing
+- TypeScript for type checking
+- @/ alias for src/ folder
+- useApi hook for easy API requests
+- globals/css for global styles
+
+- Laravel API only
+- Laravel Sanctum for authentication
+- /login, /logout, /register for authentication
+- /testobject for testing the API
+- /authobject for testing the API with authentication
 
 Happy coding!
